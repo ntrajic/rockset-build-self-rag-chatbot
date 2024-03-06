@@ -2,7 +2,7 @@
 
 Use "microsoft_annual_report_2022.pdf" for external document info for RAG pattern
 After vectorization, this pdf will be a set of overlapping chunks, with numeric vectors.
-RocksetDV is a vectorDB (high performance real-time cash), and on input "concept" RocksetDB will provide "context" 
+RocksetDB is a vectorDB (high performance real-time cache), and on input "concept" RocksetDB will provide "context" 
 for each input prompt string. Context string is augmenting input prompt, and togehter [input_prompt, answer_context] will 
 provide enough info for ChatGPT 4.0 (LLM) to generate relevant and precise output result.
 
