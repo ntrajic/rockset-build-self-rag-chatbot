@@ -31,11 +31,11 @@ workshop: self-rag: https://drive.google.com/drive/folders/19Iw8XoO_tpGVDAcQw-cf
 
 
 
-2024-03-05  06:21 PM         1,405,127 2310.11511-Learning-to-Retrieve-Generate-n-Critique-Through-Self-Reflection.pdf
-2024-03-05  06:06 PM        18,591,382 chunks_with_embeddings.json
-2024-03-05  06:15 PM             1,093 LICENSE
-2024-03-05  06:05 PM         1,285,495 microsoft_annual_report_2022.pdf
-2024-03-05  06:26 PM             1,628 README.md
-2024-03-05  06:05 PM           264,915 Rockset_RAG_Chatbot_Workshop_Notebook.ipynb
-2024-03-05  06:05 PM         1,224,521 Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.pdf
-2024-03-05  06:04 PM         8,186,973 Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.pptx
+			2024-03-05  06:21 PM         1,405,127 2310.11511-Learning-to-Retrieve-Generate-n-Critique-Through-Self-Reflection.pdf
+			2024-03-05  06:06 PM        18,591,382 chunks_with_embeddings.json
+			2024-03-05  06:15 PM             1,093 LICENSE
+			2024-03-05  06:05 PM         1,285,495 microsoft_annual_report_2022.pdf
+			2024-03-05  06:26 PM             1,628 README.md
+			2024-03-05  06:05 PM           264,915 Rockset_RAG_Chatbot_Workshop_Notebook.ipynb
+			2024-03-05  06:05 PM         1,224,521 Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.pdf
+			2024-03-05  06:04 PM         8,186,973 Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.pptx
