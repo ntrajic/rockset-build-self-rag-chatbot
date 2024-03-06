@@ -20,7 +20,7 @@ https://github.com/rockset
 				   https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_self_rag.ipynb
 				   https://github.com/ntrajic/langgraph/blob/main/examples/rag/langgraph_self_rag.ipynb (fork)
 
-# Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.ipynb (rockset)
+# Rockset_Workshop_Feb29_Ankit_Build_RAG_Chatbot.ipynb (rockset)  https://www.youtube.com/watch?v=OehTJq1BtyY
 https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/RAG_Chatbot_with_Chat_Embed_Rerank.ipynb   (cohere)
 
 resources: ankitkhare@rockset.com  dev-evangelist-lead   
